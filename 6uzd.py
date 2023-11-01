@@ -3,7 +3,11 @@
 
 
 
-
+class APRAKSTS:
+    def __init__(self, gadalaiks, gads, vards):
+        self.nosaukums = gadalaiks
+        self.gads = gads
+        self.autors = vards
 
 
 
